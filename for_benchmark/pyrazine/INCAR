@@ -1,0 +1,12 @@
+INCAR created by Atomic Simulation Environment
+ SIGMA = 0.100000
+ ALGO = fast
+ PREC = Accurate
+ ICHARG = 2
+ IDIPOL = 3
+ ISMEAR = 0
+ ISTART = 0
+ IVDW = 11
+ LCHARG = .TRUE.
+ LWAVE = .TRUE.
+ LREAL = Auto
